@@ -9759,3 +9759,430 @@ Sampler Limit: 32
 [2025.04.17-15.02.19:376][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.17-15.02.19:376][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.17-15.02.19:376][833]AssetCheck: /Game/Main_Level Validating asset
+[2025.04.17-15.04.46:235][576]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.04.46:284][576]LogFMOD: Display: Loaded bank lookup
+[2025.04.17-15.04.46:284][576]LogFMOD: Display: Loaded asset lookup
+[2025.04.17-15.04.46:290][576]LogFMOD: Default sample rate = 48000
+[2025.04.17-15.04.46:290][576]LogFMOD: System sample rate = 48000
+[2025.04.17-15.04.46:290][576]LogFMOD: Matching system sample rate 48000
+[2025.04.17-15.04.46:319][576]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/Ambience.bank
+[2025.04.17-15.04.46:319][576]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/BoardActions.bank
+[2025.04.17-15.04.46:355][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.04.46:355][576]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main_Level
+[2025.04.17-15.04.46:358][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003176s)
+[2025.04.17-15.04.46:358][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Level.Main_Level to /Game/UEDPIE_0_Main_Level.Main_Level (0.003218s)
+[2025.04.17-15.04.46:383][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.17-15.04.46:384][576]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.04.17-15.04.46:385][576]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Main_Level.Main_Level'.
+[2025.04.17-15.04.46:386][576]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2025.04.17-15.04.46:387][576]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.04.17-15.04.46:387][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.04.46:387][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.04.46:387][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.04.46:387][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.04.46:387][576]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-15.04.46:387][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.04.46:387][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-15.04.46:387][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.04.46:387][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.04.46:387][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.04.46:387][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.04.46:390][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.04.46:436][576]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.17-15.04.46:437][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.04.46:437][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.04.46:437][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.04.46:437][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.04.17-15.04.46:437][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.04.17-15.04.46:440][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.04.17-15.04.46:440][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.04.17-15.04.46:440][576]LogInit: FAudioDevice initialized with ID 39.
+[2025.04.17-15.04.46:440][576]LogAudio: Display: Audio Device (ID: 39) registered with world 'Main_Level'.
+[2025.04.17-15.04.46:440][576]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.04.17-15.04.46:443][576]LogLoad: Game class is 'GM_Fortune_Teller_C'
+[2025.04.17-15.04.46:444][576]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.17-15.04.46:444][576]LogWorld: Bringing World /Game/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.18-00.34.46
+[2025.04.17-15.04.46:445][576]LogWorld: Bringing up level for play took: 0.001172
+[2025.04.17-15.04.46:447][576]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.04.17-15.04.46:448][576]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {fabfe1ef-5cb2-4f38-988f-7639a2221916}
+
+[2025.04.17-15.04.46:448][576]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.17-15.04.46:450][576]PIE: Server logged in
+[2025.04.17-15.04.46:451][576]PIE: Play in editor total start time 0.201 seconds.
+[2025.04.17-15.04.48:748][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.04.48:748][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.04.48:748][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.04.48:749][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.04.48:749][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.04.48:749][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.04.48:750][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.04.48:750][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.04.48:751][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.04.48:752][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.04.48:752][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.04.48:752][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.04.48:753][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.04.48:753][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.04.48:753][758]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.12:629][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.05.12:629][773]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main_Level
+[2025.04.17-15.05.12:629][773]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.12:631][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.12:641][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.05.12:650][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.12:674][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.17-15.05.12:674][773]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.04.17-15.05.12:674][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.04.17-15.05.12:676][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.04.17-15.05.12:682][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.05.12:686][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.04.17-15.05.12:724][774]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.04.17-15.05.13:969][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.05.14:014][877]LogFMOD: Display: Loaded bank lookup
+[2025.04.17-15.05.14:014][877]LogFMOD: Display: Loaded asset lookup
+[2025.04.17-15.05.14:020][877]LogFMOD: Default sample rate = 48000
+[2025.04.17-15.05.14:020][877]LogFMOD: System sample rate = 48000
+[2025.04.17-15.05.14:020][877]LogFMOD: Matching system sample rate 48000
+[2025.04.17-15.05.14:049][877]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/Ambience.bank
+[2025.04.17-15.05.14:049][877]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/BoardActions.bank
+[2025.04.17-15.05.14:086][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.05.14:086][877]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main_Level
+[2025.04.17-15.05.14:088][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002884s)
+[2025.04.17-15.05.14:088][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Level.Main_Level to /Game/UEDPIE_0_Main_Level.Main_Level (0.002932s)
+[2025.04.17-15.05.14:109][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.04.17-15.05.14:111][877]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.04.17-15.05.14:112][877]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Main_Level.Main_Level'.
+[2025.04.17-15.05.14:112][877]LogPlayLevel: PIE: World Init took: (0.001693s)
+[2025.04.17-15.05.14:113][877]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.04.17-15.05.14:113][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.05.14:113][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.05.14:113][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.05.14:113][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.05.14:113][877]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-15.05.14:113][877]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.05.14:113][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-15.05.14:113][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.05.14:113][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.05.14:113][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.05.14:113][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.05.14:116][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.05.14:162][877]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.17-15.05.14:162][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.05.14:162][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.05.14:162][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.05.14:163][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.04.17-15.05.14:163][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.04.17-15.05.14:166][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.04.17-15.05.14:166][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.04.17-15.05.14:166][877]LogInit: FAudioDevice initialized with ID 40.
+[2025.04.17-15.05.14:166][877]LogAudio: Display: Audio Device (ID: 40) registered with world 'Main_Level'.
+[2025.04.17-15.05.14:166][877]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.04.17-15.05.14:169][877]LogLoad: Game class is 'GM_Fortune_Teller_C'
+[2025.04.17-15.05.14:170][877]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.17-15.05.14:170][877]LogWorld: Bringing World /Game/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.18-00.35.14
+[2025.04.17-15.05.14:170][877]LogWorld: Bringing up level for play took: 0.001216
+[2025.04.17-15.05.14:173][877]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.04.17-15.05.14:174][877]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {fabfe1ef-5cb2-4f38-988f-7639a2221916}
+
+[2025.04.17-15.05.14:174][877]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.17-15.05.14:176][877]PIE: Server logged in
+[2025.04.17-15.05.14:177][877]PIE: Play in editor total start time 0.195 seconds.
+[2025.04.17-15.05.15:204][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.15:204][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.15:204][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.15:204][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.15:204][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.15:205][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.15:205][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.15:205][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.15:205][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.15:207][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.15:207][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.15:207][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.15:208][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.15:208][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.15:209][955]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.20:209][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.05.20:210][355]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main_Level
+[2025.04.17-15.05.20:210][355]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.20:211][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.20:219][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.05.20:228][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.20:255][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.05.20:256][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.04.17-15.05.20:256][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.04.17-15.05.20:258][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.04.17-15.05.20:267][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.04.17-15.05.20:301][356]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.04.17-15.05.20:725][392]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.17-15.05.20:775][392]LogFMOD: Display: Loaded bank lookup
+[2025.04.17-15.05.20:775][392]LogFMOD: Display: Loaded asset lookup
+[2025.04.17-15.05.20:781][392]LogFMOD: Default sample rate = 48000
+[2025.04.17-15.05.20:781][392]LogFMOD: System sample rate = 48000
+[2025.04.17-15.05.20:781][392]LogFMOD: Matching system sample rate 48000
+[2025.04.17-15.05.20:809][392]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/Ambience.bank
+[2025.04.17-15.05.20:809][392]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/BoardActions.bank
+[2025.04.17-15.05.20:846][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.17-15.05.20:894][392]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main_Level
+[2025.04.17-15.05.20:898][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003703s)
+[2025.04.17-15.05.20:898][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Level.Main_Level to /Game/UEDPIE_0_Main_Level.Main_Level (0.003754s)
+[2025.04.17-15.05.20:923][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.04.17-15.05.20:924][392]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.04.17-15.05.20:925][392]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Main_Level.Main_Level'.
+[2025.04.17-15.05.20:926][392]LogPlayLevel: PIE: World Init took: (0.001727s)
+[2025.04.17-15.05.20:927][392]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.04.17-15.05.20:927][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.17-15.05.20:927][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.17-15.05.20:927][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.17-15.05.20:927][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.17-15.05.20:927][392]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.17-15.05.20:927][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.17-15.05.20:927][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.17-15.05.20:927][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.17-15.05.20:927][392]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.17-15.05.20:927][392]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.17-15.05.20:927][392]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.17-15.05.20:929][392]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.17-15.05.20:975][392]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.17-15.05.20:975][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.17-15.05.20:975][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.17-15.05.20:975][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.17-15.05.20:975][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.04.17-15.05.20:976][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.04.17-15.05.20:979][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.04.17-15.05.20:979][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.04.17-15.05.20:979][392]LogInit: FAudioDevice initialized with ID 41.
+[2025.04.17-15.05.20:979][392]LogAudio: Display: Audio Device (ID: 41) registered with world 'Main_Level'.
+[2025.04.17-15.05.20:979][392]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.04.17-15.05.20:982][392]LogLoad: Game class is 'GM_Fortune_Teller_C'
+[2025.04.17-15.05.20:983][392]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.17-15.05.20:983][392]LogWorld: Bringing World /Game/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.18-00.35.20
+[2025.04.17-15.05.20:983][392]LogWorld: Bringing up level for play took: 0.001202
+[2025.04.17-15.05.20:986][392]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.04.17-15.05.20:987][392]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {fabfe1ef-5cb2-4f38-988f-7639a2221916}
+
+[2025.04.17-15.05.20:987][392]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.17-15.05.20:989][392]PIE: Server logged in
+[2025.04.17-15.05.20:990][392]PIE: Play in editor total start time 0.253 seconds.
+[2025.04.17-15.05.22:312][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.22:312][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.22:312][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.22:314][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.22:314][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.22:314][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.22:316][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.22:316][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.22:317][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.22:318][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.22:318][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.22:319][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.22:321][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.22:321][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.22:321][496]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.30:931][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.30:931][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.30:931][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.30:931][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.30:931][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.30:932][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.30:932][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.30:932][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.30:932][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.30:933][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.30:933][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.30:933][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.30:934][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.17-15.05.30:934][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.17-15.05.30:934][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.17-15.05.36:681][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.05.36:681][682]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main_Level
+[2025.04.17-15.05.36:681][682]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.36:684][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.36:695][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.17-15.05.36:710][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.36:763][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.17-15.05.36:763][682]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.04.17-15.05.36:763][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.04.17-15.05.36:766][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.04.17-15.05.36:779][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.04.17-15.05.36:831][683]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.04.17-15.05.37:176][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.17-15.05.37:298][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.17-15.05.37:311][711]LogSavePackage: Moving output files for package: /Game/Main_Level
+[2025.04.17-15.05.37:312][711]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/Main_Level4A75A2AB47CF6AE2DD33C194D07A3822.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/Main_Level.umap'
+[2025.04.17-15.05.37:331][711]LogFileHelpers: Saving map 'Main_Level' took 0.093
+[2025.04.17-15.05.37:340][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.956 ms (total: 6.12 sec)
+[2025.04.17-15.05.37:405][711]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.17-15.05.37:405][711]LogContentValidation: Enabled validators:
+[2025.04.17-15.05.37:405][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.17-15.05.37:405][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.17-15.05.37:405][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.17-15.05.37:405][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.17-15.05.37:405][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.17-15.05.37:405][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.17-15.05.37:406][711]AssetCheck: /Game/Main_Level Validating asset
+[2025.04.17-15.05.41:220][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.17-15.05.41:310][ 26]LogStall: Shutdown...
+[2025.04.17-15.05.41:310][ 26]LogStall: Shutdown complete.
+[2025.04.17-15.05.41:454][ 26]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:454][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:531][ 26]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.17-15.05.41:531][ 26]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:531][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:624][ 26]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.17-15.05.41:624][ 26]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:624][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:673][ 26]LogSlate: Window 'BP_CamShakeSmall' being destroyed
+[2025.04.17-15.05.41:688][ 26]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:688][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:788][ 26]LogSlate: Window 'FortuneTellersGame - Unreal Editor' being destroyed
+[2025.04.17-15.05.41:913][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.04.17-15.05.41:931][ 26]Cmd: QUIT_EDITOR
+[2025.04.17-15.05.41:931][ 27]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.17-15.05.41:941][ 27]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.17-15.05.41:941][ 27]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.17-15.05.41:941][ 27]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.17-15.05.41:944][ 27]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:944][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:963][ 27]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.17-15.05.41:963][ 27]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.17-15.05.41:965][ 27]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:965][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:969][ 27]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:969][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:973][ 27]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:974][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:979][ 27]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:979][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:983][ 27]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:983][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:987][ 27]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:987][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:991][ 27]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.17-15.05.41:991][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.17-15.05.41:997][ 27]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.17-15.05.42:000][ 27]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.17-15.05.42:000][ 27]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.17-15.05.42:000][ 27]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.17-15.05.42:537][ 27]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.17-15.05.42:537][ 27]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.17-15.05.42:537][ 27]LogAudio: Display: Audio Device unregistered from world 'Main_Level'.
+[2025.04.17-15.05.42:537][ 27]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.17-15.05.42:537][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.17-15.05.42:540][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.17-15.05.42:548][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.17-15.05.42:548][ 27]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.17-15.05.42:549][ 27]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2025.04.17-15.05.42:553][ 27]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.17-15.05.42:553][ 27]LogExit: Preparing to exit.
+[2025.04.17-15.05.42:579][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:581][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.42:582][ 27]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.17-15.05.43:207][ 27]LogEditorDataStorage: Deinitializing
+[2025.04.17-15.05.43:346][ 27]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.04.17-15.05.43:365][ 27]LogExit: Editor shut down
+[2025.04.17-15.05.43:367][ 27]LogExit: Transaction tracking system shut down
+[2025.04.17-15.05.43:509][ 27]LogExit: Object subsystem successfully closed.
+[2025.04.17-15.05.43:609][ 27]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.04.17-15.05.43:804][ 27]LogMemoryProfiler: Shutdown
+[2025.04.17-15.05.43:804][ 27]LogNetworkingProfiler: Shutdown
+[2025.04.17-15.05.43:804][ 27]LoadingProfiler: Shutdown
+[2025.04.17-15.05.43:804][ 27]LogTimingProfiler: Shutdown
+[2025.04.17-15.05.44:653][ 27]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.04.17-15.05.44:653][ 27]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.04.17-15.05.44:653][ 27]LogNFORDenoise: NFORDenoise function shutting down
+[2025.04.17-15.05.44:653][ 27]RenderDocPlugin: plugin has been unloaded.
+[2025.04.17-15.05.44:674][ 27]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.04.17-15.05.44:674][ 27]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF9029247-4B43-C700-DE24-55A06F4C3920%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=3661cd174ef1ac7d254869ba93acdec7%7C255750512f7b44669ca33bf344d9c66c%7Cd3b35fb8-2366-4d28-b49a-c6d2e57351ed&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.04.17-15.05.45:735][ 27]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.04.17-15.05.45:744][ 27]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.04.17-15.05.45:744][ 27]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.04.17-15.05.45:744][ 27]LogPakFile: Destroying PakPlatformFile
+[2025.04.17-15.05.45:957][ 27]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.17-15.05.45:983][ 27]LogExit: Exiting.
+[2025.04.17-15.05.46:005][ 27]Log file closed, 04/18/25 00:35:46
