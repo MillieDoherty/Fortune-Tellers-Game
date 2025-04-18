@@ -27281,3 +27281,321 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.18-05.04.55:402][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3211.283447
 [2025.04.18-05.04.56:413][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.18-05.04.56:413][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3211.949951, Update Interval: 345.748474
+[2025.04.18-05.06.32:269][186]Cmd: LevelEditor.ToggleImmersive
+[2025.04.18-05.06.41:729][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.06.41:729][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.06.41:729][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.06.41:729][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.06.41:730][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.06.41:730][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.06.41:730][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.06.41:730][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.06.41:732][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.06.41:732][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.06.41:732][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.06.41:732][502]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.06.47:216][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.06.47:216][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.06.47:216][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.06.47:216][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.06.47:217][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.06.47:217][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.06.47:217][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.06.47:217][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.06.47:218][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.06.47:218][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.06.47:218][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.06.47:218][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.06.47:219][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.06.47:219][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.06.47:219][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.06.47:219][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.06.47:220][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.06.47:220][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.06.47:220][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.06.47:220][693]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.01:262][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.01:263][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.01:263][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.01:263][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.01:265][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.01:265][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.01:265][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.01:265][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.01:267][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.01:267][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.01:267][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.01:267][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.01:269][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.01:269][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.01:269][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.01:269][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.01:271][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.01:271][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.01:271][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.01:271][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.06:851][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.06:851][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.06:851][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.06:851][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.06:852][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.06:852][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.06:852][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.06:852][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.06:853][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.06:853][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.06:853][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.06:853][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.06:854][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.06:854][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.06:854][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.06:854][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.06:855][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.06:855][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.06:855][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.06:855][399]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.11:018][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.11:018][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.11:018][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.11:018][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.11:019][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.11:019][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.11:019][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.11:019][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.11:020][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.18-05.07.11:020][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.18-05.07.11:020][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.18-05.07.11:020][553]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.18-05.07.17:367][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-05.07.17:367][782]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main_Level
+[2025.04.18-05.07.17:367][782]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.18-05.07.17:368][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-05.07.17:378][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.18-05.07.17:386][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.18-05.07.17:407][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.18-05.07.17:407][782]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.04.18-05.07.17:407][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.04.18-05.07.17:410][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2025.04.18-05.07.17:423][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.18-05.07.17:427][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.04.18-05.07.17:476][783]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.04.18-05.07.17:481][783]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:495][784]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:512][785]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:529][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:530][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:596][787]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:612][788]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:628][789]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:645][790]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:662][791]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:678][792]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:695][793]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:712][794]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:728][795]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:745][796]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:762][797]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:780][798]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:798][799]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:814][800]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:829][801]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:846][802]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:864][803]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:865][803]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:931][804]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:932][804]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:968][805]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.17:983][806]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:000][807]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:016][808]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:034][809]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:050][810]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:067][811]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:083][812]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:099][813]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:116][814]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:133][815]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:151][816]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:169][817]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:185][818]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:201][819]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:217][820]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:234][821]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:250][822]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.18:267][823]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.07.58:269][942]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.08.20:712][  9]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.08.33:593][ 47]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.08.42:476][ 73]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.08.53:937][107]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.09.18:449][180]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.11.16:182][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3592.058594
+[2025.04.18-05.11.17:162][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-05.11.17:162][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3592.705078, Update Interval: 315.617554
+[2025.04.18-05.13.19:268][903]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.140 and deleted 64 files with total size 1 MiB and 64 empty folders. Scanned 866 files in 1479 folders with total size 81 MiB.
+[2025.04.18-05.14.52:566][182]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.14.55:246][191]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.14.55:263][192]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.14.55:297][193]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.18-05.17.15:717][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3951.595703
+[2025.04.18-05.17.16:712][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-05.17.16:712][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3952.260498, Update Interval: 350.117493
+[2025.04.18-05.23.42:515][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4338.396484
+[2025.04.18-05.23.43:508][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-05.23.43:508][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4339.060059, Update Interval: 315.773193
+[2025.04.18-05.29.53:341][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4709.219238
+[2025.04.18-05.29.54:343][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-05.29.54:343][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4709.887207, Update Interval: 328.772247
+[2025.04.18-05.35.58:170][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5074.049316
+[2025.04.18-05.35.59:175][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-05.35.59:176][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5074.722168, Update Interval: 322.033752
+[2025.04.18-05.42.14:303][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5450.188965
+[2025.04.18-05.42.15:305][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-05.42.15:305][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5450.863281, Update Interval: 350.525818
+[2025.04.18-05.49.03:086][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5858.976074
+[2025.04.18-05.49.04:086][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-05.49.04:086][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5859.643066, Update Interval: 352.364258
+[2025.04.18-05.55.33:328][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6249.223633
+[2025.04.18-05.55.34:332][854]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-05.55.34:332][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6249.896484, Update Interval: 323.549927
+[2025.04.18-06.01.34:103][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6609.994629
+[2025.04.18-06.01.35:106][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.18-06.01.35:106][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6610.665039, Update Interval: 330.004578
