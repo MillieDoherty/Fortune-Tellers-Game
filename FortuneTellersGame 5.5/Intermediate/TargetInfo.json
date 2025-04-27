@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FortuneTellersGame",
+			"Path": "..\\Source\\FortuneTellersGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FortuneTellersGameEditor",
+			"Path": "..\\Source\\FortuneTellersGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
