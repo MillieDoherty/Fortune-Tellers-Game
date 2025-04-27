@@ -6617,3 +6617,1684 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.27-06.19.41:092][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.27-06.19.41:092][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.27-06.19.41:093][817]AssetCheck: /Game/GUI/WB_Start_Screen Validating asset
+[2025.04.27-06.20.10:247][557]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/WB_You_Win.WB_You_Win
+[2025.04.27-06.20.10:247][557]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.04.27-06.20.10:248][557]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_55'.
+[2025.04.27-06.20.10:256][557]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.04.27-06.20.10:257][557]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_56'.
+[2025.04.27-06.22.15:405][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.04.27-06.22.15:410][550]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_Level' took 0.287
+[2025.04.27-06.22.15:411][550]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WB_You_Win] ([2] browsable assets)...
+[2025.04.27-06.22.15:418][550]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WB_You_Win.WB_You_Win]
+[2025.04.27-06.22.15:418][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WB_You_Win]
+[2025.04.27-06.22.15:424][550]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GUI/WB_You_Win_Auto6
+[2025.04.27-06.22.15:424][550]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/WB_You_Win_Auto69DDBF9FD40F3D76B9E18448BE2D5A810.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/Autosaves/Game/GUI/WB_You_Win_Auto6.uasset'
+[2025.04.27-06.22.15:426][550]LogFileHelpers: Auto-saving content packages took 0.015
+[2025.04.27-06.22.40:150][644]LogSlate: External Image Picker: DecompressImage failed
+[2025.04.27-06.22.49:972][ 84]LogSlate: Window 'Project Settings' being destroyed
+[2025.04.27-06.22.49:987][ 84]LogSlate: Window 'Project Settings' being destroyed
+[2025.04.27-06.23.54:809][478]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GM_Fortune_Teller.GM_Fortune_Teller
+[2025.04.27-06.23.54:810][478]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.04.27-06.23.54:810][478]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_57'.
+[2025.04.27-06.23.58:598][650]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-06.23.58:598][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-06.23.58:648][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GM_Fortune_Teller.GM_Fortune_Teller
+[2025.04.27-06.23.58:648][650]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.04.27-06.23.58:649][650]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_58'.
+[2025.04.27-06.23.59:477][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.04.27-06.24.16:100][369]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-06.24.16:100][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-06.24.16:195][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.04.27-06.24.18:763][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8053.011719
+[2025.04.27-06.24.19:136][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-06.24.19:136][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8053.364258, Update Interval: 312.728058
+[2025.04.27-06.24.57:038][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.04.27-06.24.58:687][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.24.58:753][354]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WB_You_Win] ([2] browsable assets)...
+[2025.04.27-06.24.58:758][354]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WB_You_Win.WB_You_Win]
+[2025.04.27-06.24.58:758][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WB_You_Win]
+[2025.04.27-06.24.58:758][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WB_You_Win" FILE="C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_You_Win.uasset" SILENT=true
+[2025.04.27-06.24.58:764][354]LogSavePackage: Moving output files for package: /Game/GUI/WB_You_Win
+[2025.04.27-06.24.58:765][354]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/WB_You_Win4D8304B347D08ABDC4A68EBF23833D71.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_You_Win.uasset'
+[2025.04.27-06.24.58:781][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.177 ms (total: 6.32 sec)
+[2025.04.27-06.24.58:835][354]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.24.58:836][354]LogContentValidation: Enabled validators:
+[2025.04.27-06.24.58:836][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.24.58:836][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.24.58:836][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.24.58:836][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.24.58:836][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.24.58:836][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.24.58:836][354]AssetCheck: /Game/GUI/WB_You_Win Validating asset
+[2025.04.27-06.25.16:443][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.04.27-06.25.18:196][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.25.18:253][323]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WB_You_Win] ([2] browsable assets)...
+[2025.04.27-06.25.18:257][323]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WB_You_Win.WB_You_Win]
+[2025.04.27-06.25.18:257][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WB_You_Win]
+[2025.04.27-06.25.18:257][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WB_You_Win" FILE="C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_You_Win.uasset" SILENT=true
+[2025.04.27-06.25.18:264][323]LogSavePackage: Moving output files for package: /Game/GUI/WB_You_Win
+[2025.04.27-06.25.18:265][323]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/WB_You_WinC593F12E4C747657B587B2870A0D84C2.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_You_Win.uasset'
+[2025.04.27-06.25.18:281][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.224 ms (total: 6.41 sec)
+[2025.04.27-06.25.18:351][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.25.18:351][323]LogContentValidation: Enabled validators:
+[2025.04.27-06.25.18:351][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.25.18:351][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.25.18:351][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.25.18:351][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.25.18:351][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.25.18:352][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.25.18:352][323]AssetCheck: /Game/GUI/WB_You_Win Validating asset
+[2025.04.27-06.25.36:978][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.36:978][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.36:978][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.36:983][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.36:983][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.36:984][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.36:988][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.36:988][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.36:989][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.37:064][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.04.27-06.25.37:073][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.37:073][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.37:074][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.37:081][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.37:081][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.37:081][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.37:086][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.37:086][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.37:087][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.37:093][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.37:093][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.37:093][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.37:688][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.37:688][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.37:689][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.37:695][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.37:695][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.37:695][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.37:700][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.37:700][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.37:701][ 88]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.46:884][384]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.27-06.25.46:929][384]LogFMOD: Display: Loaded bank lookup
+[2025.04.27-06.25.46:929][384]LogFMOD: Display: Loaded asset lookup
+[2025.04.27-06.25.46:936][384]LogFMOD: Default sample rate = 48000
+[2025.04.27-06.25.46:937][384]LogFMOD: System sample rate = 48000
+[2025.04.27-06.25.46:937][384]LogFMOD: Matching system sample rate 48000
+[2025.04.27-06.25.46:962][384]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/Ambience.bank
+[2025.04.27-06.25.46:962][384]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/BoardActions.bank
+[2025.04.27-06.25.46:978][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.25.47:000][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.27-06.25.47:000][384]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main_Level
+[2025.04.27-06.25.47:012][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012502s)
+[2025.04.27-06.25.47:013][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Level.Main_Level to /Game/UEDPIE_0_Main_Level.Main_Level (0.012545s)
+[2025.04.27-06.25.47:038][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.04.27-06.25.47:045][384]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.04.27-06.25.47:046][384]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Main_Level.Main_Level'.
+[2025.04.27-06.25.47:047][384]LogPlayLevel: PIE: World Init took: (0.001850s)
+[2025.04.27-06.25.47:048][384]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.04.27-06.25.47:048][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.27-06.25.47:048][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.27-06.25.47:048][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.27-06.25.47:048][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.27-06.25.47:048][384]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.27-06.25.47:048][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.27-06.25.47:048][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.27-06.25.47:048][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.27-06.25.47:048][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.27-06.25.47:048][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.27-06.25.47:048][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.27-06.25.47:050][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.27-06.25.47:093][384]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.27-06.25.47:093][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.27-06.25.47:093][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.27-06.25.47:093][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.27-06.25.47:094][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.04.27-06.25.47:094][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.04.27-06.25.47:097][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.04.27-06.25.47:097][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.04.27-06.25.47:097][384]LogInit: FAudioDevice initialized with ID 20.
+[2025.04.27-06.25.47:097][384]LogAudio: Display: Audio Device (ID: 20) registered with world 'Main_Level'.
+[2025.04.27-06.25.47:097][384]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.04.27-06.25.47:150][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.25.47:150][384]LogLoad: Game class is 'GM_Fortune_Teller_C'
+[2025.04.27-06.25.47:151][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.27-06.25.47:153][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.25.47:153][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {74e21f99-ab09-49dd-8b97-bbafb7131407}
+
+[2025.04.27-06.25.47:153][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.25.47:153][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.25.47:153][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.25.47:153][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.47:153][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.25.47:155][384]LogWorld: Bringing World /Game/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.27-15.55.47
+[2025.04.27-06.25.47:156][384]LogWorld: Bringing up level for play took: 0.005713
+[2025.04.27-06.25.47:159][384]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.04.27-06.25.47:160][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {fabfe1ef-5cb2-4f38-988f-7639a2221916}
+
+[2025.04.27-06.25.47:160][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.27-06.25.47:160][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {760b64ab-9819-41e6-9765-93d7008d149c}
+
+[2025.04.27-06.25.47:160][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.47:160][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {944bcd45-a367-4ac2-ab59-8f44c8bef890}
+
+[2025.04.27-06.25.47:160][384]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {e4f56485-e792-4afa-8ae8-018f42c5c0e3}
+
+[2025.04.27-06.25.47:182][384]PIE: Server logged in
+[2025.04.27-06.25.47:199][384]PIE: Play in editor total start time 0.301 seconds.
+[2025.04.27-06.25.48:292][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.25.51:988][531]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.25.53:161][564]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.53:420][572]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.53:679][580]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.25.54:360][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.25.54:360][594]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main_Level
+[2025.04.27-06.25.54:361][594]LogSlate: Window 'FortuneTellersGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.27-06.25.54:372][594]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-06.25.54:374][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-06.25.54:377][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.27-06.25.54:385][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-06.25.54:409][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.27-06.25.54:410][594]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.04.27-06.25.54:410][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.04.27-06.25.54:412][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.04.27-06.25.54:423][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.04.27-06.25.54:461][595]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.04.27-06.25.56:726][740]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.27-06.26.06:442][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.06:442][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.06:442][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.06:447][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.06:447][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.06:447][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.06:450][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.06:450][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.06:450][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.06:517][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.04.27-06.26.06:524][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.06:524][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.06:524][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.06:529][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.06:529][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.06:530][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.06:534][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.06:534][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.06:534][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.06:540][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.06:540][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.06:540][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.07:127][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.07:127][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.07:127][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.07:133][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.07:134][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.07:134][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.07:139][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.26.07:139][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.26.07:139][216]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.26.08:041][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.26.08:102][245]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Crystal_Ball/BP_Crystal_Ball] ([2] browsable assets)...
+[2025.04.27-06.26.08:217][245]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Crystal_Ball/BP_Crystal_Ball.BP_Crystal_Ball]
+[2025.04.27-06.26.08:217][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Crystal_Ball/BP_Crystal_Ball]
+[2025.04.27-06.26.08:252][245]LogSavePackage: Moving output files for package: /Game/Assets/Crystal_Ball/BP_Crystal_Ball
+[2025.04.27-06.26.08:253][245]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/BP_Crystal_BallF4F5D31246C6DF0E5A9C99B4F44A46D9.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/Assets/Crystal_Ball/BP_Crystal_Ball.uasset'
+[2025.04.27-06.26.08:269][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.617 ms (total: 6.63 sec)
+[2025.04.27-06.26.08:334][245]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.26.08:334][245]LogContentValidation: Enabled validators:
+[2025.04.27-06.26.08:334][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.26.08:334][245]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.26.08:334][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.26.08:334][245]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.26.08:334][245]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.26.08:334][245]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.26.08:335][245]AssetCheck: /Game/Assets/Crystal_Ball/BP_Crystal_Ball Validating asset
+[2025.04.27-06.26.12:909][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.04.27-06.26.14:415][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.26.14:484][565]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WB_You_Win] ([2] browsable assets)...
+[2025.04.27-06.26.14:487][565]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WB_You_Win.WB_You_Win]
+[2025.04.27-06.26.14:487][565]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WB_You_Win]
+[2025.04.27-06.26.14:487][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WB_You_Win" FILE="C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_You_Win.uasset" SILENT=true
+[2025.04.27-06.26.14:493][565]LogSavePackage: Moving output files for package: /Game/GUI/WB_You_Win
+[2025.04.27-06.26.14:494][565]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/WB_You_WinC68563D44859192735D28AA151FB4CF0.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_You_Win.uasset'
+[2025.04.27-06.26.14:509][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.215 ms (total: 6.73 sec)
+[2025.04.27-06.26.14:567][565]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.26.14:567][565]LogContentValidation: Enabled validators:
+[2025.04.27-06.26.14:567][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.26.14:567][565]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.26.14:567][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.26.14:567][565]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.26.14:567][565]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.26.14:567][565]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.26.14:568][565]AssetCheck: /Game/GUI/WB_You_Win Validating asset
+[2025.04.27-06.26.22:544][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GM_Fortune_Teller.GM_Fortune_Teller
+[2025.04.27-06.26.22:544][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2025.04.27-06.26.22:544][ 30]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_62'.
+[2025.04.27-06.26.56:439][361]LogVSAccessor: Warning: Couldn't open file 'E:/OtherProgramFiles/UE5/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h'.
+[2025.04.27-06.26.56:440][361]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2025.04.27-06.26.56:451][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:452][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:453][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:454][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:455][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:456][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:457][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:458][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:459][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:459][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:459][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:459][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:459][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:459][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:459][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:473][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:479][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:479][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:479][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:479][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:480][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:515][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:515][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:518][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:519][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:519][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:521][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:526][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:526][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:553][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:623][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:641][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:643][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:646][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:658][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:688][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:697][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:702][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:729][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:732][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:732][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:732][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:732][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:732][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:733][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:734][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:734][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:736][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:741][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:742][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:743][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:744][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:745][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:746][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:747][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:748][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:748][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:748][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:748][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:759][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:764][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:764][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:764][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:764][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:765][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:786][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:786][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:789][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:790][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:790][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:791][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:795][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:795][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:821][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:889][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:903][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:905][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:907][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:919][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:942][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:950][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:954][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:980][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:982][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:982][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:982][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:982][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:982][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:983][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:984][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:984][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:986][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:996][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:996][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:996][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:996][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:996][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:996][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:996][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:996][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:997][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:998][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.56:999][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:000][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:001][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:002][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:003][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:015][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:019][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:019][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:019][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:019][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:020][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:042][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:042][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:045][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:045][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:045][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:047][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:051][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:051][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:078][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:146][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:160][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:163][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:165][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:177][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:200][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:207][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:211][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:236][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:239][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:239][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:239][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:239][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:242][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:247][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:248][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:249][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:250][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:251][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:252][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:253][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:254][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:254][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:254][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:254][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:254][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:254][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:254][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:254][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:266][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:270][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:270][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:270][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:270][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:271][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:296][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:297][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:299][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:300][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:300][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:301][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:305][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:306][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:334][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:401][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:415][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:418][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:419][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:432][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:461][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:469][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:473][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:498][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:500][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:500][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:500][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:500][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:503][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.26.57:503][361]LogVSAccessor: Warning: Couldn't access module table
+[2025.04.27-06.27.37:477][691]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.04.27-06.27.48:520][692]LogVSAccessor: Warning: Couldn't goto line number '1' in 'E:/OtherProgramFiles/UE5/UE_5.5/Engine/Source/Runtime/Engine/Classes/GameFramework/GameModeBase.h'.
+[2025.04.27-06.28.14:406][ 87]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/GM_Fortune_Teller.GM_Fortune_Teller from GameModeBase to GameMode...
+[2025.04.27-06.28.14:632][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.04.27-06.28.17:379][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.28.17:447][214]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GM_Fortune_Teller] ([2] browsable assets)...
+[2025.04.27-06.28.17:447][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/GM_Fortune_Teller]
+[2025.04.27-06.28.17:450][214]LogSavePackage: Moving output files for package: /Game/GM_Fortune_Teller
+[2025.04.27-06.28.17:451][214]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/GM_Fortune_Teller16363C774493B09CB47FD29418048E62.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GM_Fortune_Teller.uasset'
+[2025.04.27-06.28.17:464][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.763 ms (total: 6.81 sec)
+[2025.04.27-06.28.17:530][214]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.28.17:530][214]LogContentValidation: Enabled validators:
+[2025.04.27-06.28.17:530][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.28.17:530][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.28.17:530][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.28.17:530][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.28.17:530][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.28.17:530][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.28.17:530][214]AssetCheck: /Game/GM_Fortune_Teller Validating asset
+[2025.04.27-06.28.41:366][542]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GUI/WB_Game_Over.WB_Game_Over
+[2025.04.27-06.28.41:367][542]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_63
+[2025.04.27-06.28.41:367][542]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_63'.
+[2025.04.27-06.28.41:376][542]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_64
+[2025.04.27-06.28.41:377][542]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_64'.
+[2025.04.27-06.29.24:825][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.04.27-06.29.25:776][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.29.25:850][578]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WB_Game_Over] ([2] browsable assets)...
+[2025.04.27-06.29.25:857][578]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WB_Game_Over.WB_Game_Over]
+[2025.04.27-06.29.25:857][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WB_Game_Over]
+[2025.04.27-06.29.25:857][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WB_Game_Over" FILE="C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_Game_Over.uasset" SILENT=true
+[2025.04.27-06.29.25:866][578]LogSavePackage: Moving output files for package: /Game/GUI/WB_Game_Over
+[2025.04.27-06.29.25:867][578]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/WB_Game_OverCDBAEB184EA917AAAD4D7D9417314CB3.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_Game_Over.uasset'
+[2025.04.27-06.29.25:883][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.728 ms (total: 6.92 sec)
+[2025.04.27-06.29.25:944][578]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.29.25:944][578]LogContentValidation: Enabled validators:
+[2025.04.27-06.29.25:944][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.29.25:944][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.29.25:944][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.29.25:944][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.29.25:944][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.29.25:944][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.29.25:945][578]AssetCheck: /Game/GUI/WB_Game_Over Validating asset
+[2025.04.27-06.29.43:298][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.04.27-06.29.44:326][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.29.44:394][371]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/GUI/WB_You_Win] ([2] browsable assets)...
+[2025.04.27-06.29.44:397][371]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/GUI/WB_You_Win.WB_You_Win]
+[2025.04.27-06.29.44:397][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/GUI/WB_You_Win]
+[2025.04.27-06.29.44:397][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GUI/WB_You_Win" FILE="C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_You_Win.uasset" SILENT=true
+[2025.04.27-06.29.44:404][371]LogSavePackage: Moving output files for package: /Game/GUI/WB_You_Win
+[2025.04.27-06.29.44:405][371]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/WB_You_Win5C63406D4F2E8AC949F3A6A0B80CFD8C.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/GUI/WB_You_Win.uasset'
+[2025.04.27-06.29.44:421][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.686 ms (total: 7.01 sec)
+[2025.04.27-06.29.44:479][371]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.29.44:479][371]LogContentValidation: Enabled validators:
+[2025.04.27-06.29.44:479][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.29.44:479][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.29.44:479][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.29.44:479][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.29.44:479][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.29.44:479][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.29.44:480][371]AssetCheck: /Game/GUI/WB_You_Win Validating asset
+[2025.04.27-06.29.48:619][548]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.27-06.29.48:669][548]LogFMOD: Display: Loaded bank lookup
+[2025.04.27-06.29.48:669][548]LogFMOD: Display: Loaded asset lookup
+[2025.04.27-06.29.48:676][548]LogFMOD: Default sample rate = 48000
+[2025.04.27-06.29.48:677][548]LogFMOD: System sample rate = 48000
+[2025.04.27-06.29.48:677][548]LogFMOD: Matching system sample rate 48000
+[2025.04.27-06.29.48:704][548]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/Ambience.bank
+[2025.04.27-06.29.48:704][548]LogFMOD: Loading bank: C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/FMOD/Desktop/BoardActions.bank
+[2025.04.27-06.29.48:718][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.29.48:738][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.27-06.29.48:738][548]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main_Level
+[2025.04.27-06.29.48:750][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012455s)
+[2025.04.27-06.29.48:751][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Level.Main_Level to /Game/UEDPIE_0_Main_Level.Main_Level (0.012497s)
+[2025.04.27-06.29.48:775][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.04.27-06.29.48:779][548]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.04.27-06.29.48:780][548]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Main_Level.Main_Level'.
+[2025.04.27-06.29.48:780][548]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2025.04.27-06.29.48:781][548]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.04.27-06.29.48:781][548]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.27-06.29.48:781][548]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.27-06.29.48:781][548]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.27-06.29.48:782][548]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.27-06.29.48:782][548]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.27-06.29.48:782][548]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.27-06.29.48:782][548]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.27-06.29.48:782][548]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.27-06.29.48:782][548]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.27-06.29.48:782][548]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.27-06.29.48:782][548]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.27-06.29.48:784][548]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.27-06.29.48:826][548]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.27-06.29.48:826][548]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.27-06.29.48:826][548]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.27-06.29.48:826][548]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.27-06.29.48:827][548]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.04.27-06.29.48:827][548]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.04.27-06.29.48:830][548]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.04.27-06.29.48:830][548]LogInit: FAudioDevice initialized with ID 21.
+[2025.04.27-06.29.48:830][548]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main_Level'.
+[2025.04.27-06.29.48:830][548]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.04.27-06.29.48:830][548]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.04.27-06.29.48:893][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.29.48:893][548]LogLoad: Game class is 'GM_Fortune_Teller_C'
+[2025.04.27-06.29.48:894][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.27-06.29.48:896][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.29.48:896][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {74e21f99-ab09-49dd-8b97-bbafb7131407}
+
+[2025.04.27-06.29.48:896][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.29.48:896][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.29.48:896][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.29.48:896][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.29.48:896][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.29.48:898][548]LogWorld: Bringing World /Game/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.27-15.59.48
+[2025.04.27-06.29.48:899][548]LogWorld: Bringing up level for play took: 0.005668
+[2025.04.27-06.29.48:902][548]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.04.27-06.29.48:903][548]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.04.27-06.29.49:125][548]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.04.27-06.29.49:125][548]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.04.27-06.29.49:126][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {fabfe1ef-5cb2-4f38-988f-7639a2221916}
+
+[2025.04.27-06.29.49:126][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.27-06.29.49:126][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {760b64ab-9819-41e6-9765-93d7008d149c}
+
+[2025.04.27-06.29.49:126][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.29.49:126][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {944bcd45-a367-4ac2-ab59-8f44c8bef890}
+
+[2025.04.27-06.29.49:126][548]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {e4f56485-e792-4afa-8ae8-018f42c5c0e3}
+
+[2025.04.27-06.29.49:129][548]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.04.27-06.29.49:135][548]PIE: Server logged in
+[2025.04.27-06.29.49:140][548]PIE: Play in editor total start time 0.506 seconds.
+[2025.04.27-06.29.50:447][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.29.53:728][695]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.29.55:340][736]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.29.55:604][743]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.29.55:854][750]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.29.57:132][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.29.57:132][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.29.57:132][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.29.57:132][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.29.57:133][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.29.57:133][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.29.57:133][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.29.57:133][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.29.57:133][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.29.57:134][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.29.57:134][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.29.57:134][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.29.57:134][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.29.57:134][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.29.57:134][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.29.57:134][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.29.57:135][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.29.57:135][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.29.57:135][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.29.57:135][786]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.29.58:738][831]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.30.03:757][963]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.30.04:441][981]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.04:702][988]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.04:953][995]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.06:240][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.06:240][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.06:240][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.06:240][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.06:240][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.06:240][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.06:240][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.06:241][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.06:241][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.06:241][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.06:241][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.06:241][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.06:242][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.06:242][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.06:242][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.06:242][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.06:242][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.06:242][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.06:242][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.06:242][ 31]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.08:768][ 98]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.30.12:014][183]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.12:272][190]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.12:523][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.13:777][232]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.30.13:811][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.13:811][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.13:811][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.13:811][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.13:812][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.13:812][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.13:812][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.13:812][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.13:813][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.13:813][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.13:813][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.13:813][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.13:813][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.13:813][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.13:813][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.13:813][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.13:814][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.13:814][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.13:814][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.13:814][233]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.18:664][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8412.905273
+[2025.04.27-06.30.18:798][364]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.30.19:044][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.27-06.30.19:045][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8413.248047, Update Interval: 334.351624
+[2025.04.27-06.30.19:619][386]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.19:876][393]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.20:129][400]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.21:103][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:120][427]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18425351679122741773
+[2025.04.27-06.30.21:123][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-06.30.21:204][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:220][428]LogSlate: Took 0.000499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.27-06.30.21:222][428]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.27-06.30.21:226][428]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.27-06.30.21:229][428]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.27-06.30.21:238][428]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.27-06.30.21:264][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:286][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:306][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:326][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:345][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:372][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:412][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:413][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.21:413][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.21:413][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.21:413][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.21:413][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.21:413][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.21:413][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.21:414][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.21:414][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.21:414][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.21:414][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.21:414][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.21:415][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.21:415][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.21:415][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.21:415][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.21:415][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.30.21:415][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.30.21:415][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.30.21:415][435]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.30.21:452][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:492][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:530][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:569][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:607][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:643][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:681][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:717][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:755][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:792][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:829][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:867][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:904][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:941][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.21:978][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:016][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:054][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:091][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:127][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:166][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:203][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:241][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:276][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:315][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:353][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:391][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:430][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:469][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:507][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:547][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:586][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:626][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:667][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:706][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:747][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:787][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:826][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:866][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:906][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:944][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.22:984][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.23:023][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.23:060][478]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2025.04.27-06.30.23:061][478]LogGameState: Match State Changed from InProgress to LeavingMap
+[2025.04.27-06.30.23:061][478]LogGameMode: ProcessServerTravel: ?Restart
+[2025.04.27-06.30.23:080][478]LogEngine: Server switch level: /Game/Main_Level?Restart
+[2025.04.27-06.30.23:080][478]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Main_Level?Restart"
+[2025.04.27-06.30.23:080][478]LogNet: Browse: /Game/Main_Level?Restart
+[2025.04.27-06.30.23:087][478]LogLoad: LoadMap: /Game/Main_Level
+[2025.04.27-06.30.23:087][478]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main_Level
+[2025.04.27-06.30.23:105][478]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-06.30.23:106][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-06.30.23:153][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.27-06.30.23:159][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.04.27-06.30.23:190][478]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main_Level
+[2025.04.27-06.30.23:203][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012867s)
+[2025.04.27-06.30.23:203][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main_Level.Main_Level to /Game/UEDPIE_0_Main_Level.Main_Level (0.012934s)
+[2025.04.27-06.30.23:203][478]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main_Level'.
+[2025.04.27-06.30.23:203][478]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Level
+[2025.04.27-06.30.23:204][478]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/UEDPIE_0_Main_Level.Main_Level'.
+[2025.04.27-06.30.23:205][478]LogPlayLevel: PIE: World Init took: (0.001741s)
+[2025.04.27-06.30.23:205][478]LogLoad: Game class is 'GM_Fortune_Teller_C'
+[2025.04.27-06.30.23:206][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {0ed30fac-8211-42bc-9c68-c8fd8888e089}
+
+[2025.04.27-06.30.23:207][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.30.23:208][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {74e21f99-ab09-49dd-8b97-bbafb7131407}
+
+[2025.04.27-06.30.23:208][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.30.23:208][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.30.23:208][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.30.23:208][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.23:208][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.30.23:209][478]LogWorld: Bringing World /Game/UEDPIE_0_Main_Level.Main_Level up for play (max tick rate 0) at 2025.04.27-16.00.23
+[2025.04.27-06.30.23:210][478]LogWorld: Bringing up level for play took: 0.005043
+[2025.04.27-06.30.23:211][478]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2025.04.27-06.30.23:211][478]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2025.04.27-06.30.23:211][478]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2025.04.27-06.30.23:211][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {fabfe1ef-5cb2-4f38-988f-7639a2221916}
+
+[2025.04.27-06.30.23:211][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.27-06.30.23:211][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {760b64ab-9819-41e6-9765-93d7008d149c}
+
+[2025.04.27-06.30.23:211][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.30.23:212][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {944bcd45-a367-4ac2-ab59-8f44c8bef890}
+
+[2025.04.27-06.30.23:212][478]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {e4f56485-e792-4afa-8ae8-018f42c5c0e3}
+
+[2025.04.27-06.30.23:214][478]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2025.04.27-06.30.23:232][478]LogLoad: Took 0.145460 seconds to LoadMap(/Game/UEDPIE_0_Main_Level)
+[2025.04.27-06.30.23:239][478]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_Main_Level
+[2025.04.27-06.30.23:809][499]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\core_api\src\fmod_os_net_winsock.cpp(273) - Cannot listen for connections, port 9264 is currently in use.
+
+[2025.04.27-06.30.26:661][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-06.30.26:661][603]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main_Level
+[2025.04.27-06.30.26:662][603]LogSlate: Window 'FortuneTellersGame Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.27-06.30.26:675][603]LogWorld: UWorld::CleanupWorld for Main_Level, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-06.30.26:676][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-06.30.26:680][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.27-06.30.26:688][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-06.30.26:714][603]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.04.27-06.30.26:714][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.04.27-06.30.26:716][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.04.27-06.30.26:726][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.04.27-06.30.26:764][604]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.04.27-06.30.42:482][593]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.27-06.31.47:540][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.04.27-06.31.47:544][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.31.47:544][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.31.47:544][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.31.47:544][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.31.47:545][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.31.47:545][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.31.47:545][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.31.47:545][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.31.47:552][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.31.47:552][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.31.47:553][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.31.47:558][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.31.47:558][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.31.47:559][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.31.47:563][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.31.47:563][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.31.47:563][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.31.47:848][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.31.47:848][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.31.47:850][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.31.47:850][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.31.47:851][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.31.47:851][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.31.47:859][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {fabfe1ef-5cb2-4f38-988f-7639a2221916}
+
+[2025.04.27-06.31.47:860][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.27-06.31.47:860][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {760b64ab-9819-41e6-9765-93d7008d149c}
+
+[2025.04.27-06.31.47:860][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.31.47:860][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {944bcd45-a367-4ac2-ab59-8f44c8bef890}
+
+[2025.04.27-06.31.47:860][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {e4f56485-e792-4afa-8ae8-018f42c5c0e3}
+
+[2025.04.27-06.31.48:409][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.31.48:409][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.31.48:409][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.31.48:409][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.31.48:410][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {b4ffbf38-e503-4247-82d8-1a3597b81416}
+
+[2025.04.27-06.31.48:410][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {45f0a693-4a77-4b45-af2c-c26135a091e4}
+
+[2025.04.27-06.31.48:410][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {a3ccb371-e46e-4b51-a8dc-7160b281f5bf}
+
+[2025.04.27-06.31.48:410][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {1a372a7c-e119-4159-8d48-5423b4f69154}
+
+[2025.04.27-06.31.48:417][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.31.48:417][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.31.48:417][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.31.48:423][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.31.48:423][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.31.48:423][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.31.48:428][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {989b8727-613b-4e78-836f-5765c29ac2bd}
+
+[2025.04.27-06.31.48:428][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.31.48:428][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {489975e6-4fd6-4c0c-ab80-e46e24e7e092}
+
+[2025.04.27-06.31.48:441][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.31.48:441][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.31.48:443][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.31.48:443][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.31.48:444][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {120e34a7-691d-46da-9214-f41113c52e69}
+
+[2025.04.27-06.31.48:445][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {6c34794b-efdb-4218-a054-60ac97fc6767}
+
+[2025.04.27-06.31.48:452][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {fabfe1ef-5cb2-4f38-988f-7639a2221916}
+
+[2025.04.27-06.31.48:452][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {20bd3b54-8a93-4b77-8188-fd0497bf3631}
+
+[2025.04.27-06.31.48:453][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {760b64ab-9819-41e6-9765-93d7008d149c}
+
+[2025.04.27-06.31.48:453][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {88045a91-0f10-473a-99c7-c3ab62d0a944}
+
+[2025.04.27-06.31.48:453][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {944bcd45-a367-4ac2-ab59-8f44c8bef890}
+
+[2025.04.27-06.31.48:453][168]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {e4f56485-e792-4afa-8ae8-018f42c5c0e3}
+
+[2025.04.27-06.31.49:810][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.31.49:875][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Player_Controller] ([2] browsable assets)...
+[2025.04.27-06.31.49:875][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Player_Controller]
+[2025.04.27-06.31.49:973][198]LogSavePackage: Moving output files for package: /Game/BP_Player_Controller
+[2025.04.27-06.31.49:974][198]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/BP_Player_ControllerCD6AE4B54708D8820202D681660C443F.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/BP_Player_Controller.uasset'
+[2025.04.27-06.31.49:989][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.252 ms (total: 7.19 sec)
+[2025.04.27-06.31.50:059][198]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.31.50:059][198]LogContentValidation: Enabled validators:
+[2025.04.27-06.31.50:059][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.31.50:059][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.31.50:059][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.31.50:059][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.31.50:059][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.31.50:059][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.31.50:059][198]AssetCheck: /Game/BP_Player_Controller Validating asset
+[2025.04.27-06.33.51:673][743]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.27-06.33.58:710][113]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Card_Spawner.BP_Card_Spawner
+[2025.04.27-06.33.58:710][113]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_67
+[2025.04.27-06.33.58:711][113]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_67'.
+[2025.04.27-06.33.59:515][113]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.06:104][362]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.06:108][362]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.06:109][362]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.15:089][744]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.15:092][744]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.15:094][744]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.18:709][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.18:711][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.18:712][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.18:944][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.04.27-06.34.18:950][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.18:953][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.18:954][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.18:956][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.19:428][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.19:430][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.19:431][884]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.22:565][972]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.22:568][972]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.22:569][972]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.22:571][972]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.22:573][972]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.22:574][972]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.27:377][150]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.27-06.34.27:404][150]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.27:407][150]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.27:409][150]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.27:411][150]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.27:414][150]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.27:415][150]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.28:734][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.28:736][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.28:736][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.28:803][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.04.27-06.34.28:809][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.28:812][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.28:813][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.28:814][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.29:274][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.29:276][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.29:278][197]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.34.30:946][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.34.31:003][214]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Card_Spawner] ([2] browsable assets)...
+[2025.04.27-06.34.31:074][214]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Card_Spawner.BP_Card_Spawner]
+[2025.04.27-06.34.31:074][214]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Card_Spawner]
+[2025.04.27-06.34.31:074][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Card_Spawner" FILE="C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/BP_Card_Spawner.uasset" SILENT=true
+[2025.04.27-06.34.31:094][214]LogSavePackage: Moving output files for package: /Game/BP_Card_Spawner
+[2025.04.27-06.34.31:095][214]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/BP_Card_Spawner958184CB470FE51CC37FD886C1ED789B.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/BP_Card_Spawner.uasset'
+[2025.04.27-06.34.31:112][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.895 ms (total: 7.36 sec)
+[2025.04.27-06.34.31:168][214]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.34.31:168][214]LogContentValidation: Enabled validators:
+[2025.04.27-06.34.31:168][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.34.31:168][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.34.31:168][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.34.31:168][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.34.31:168][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.34.31:168][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.34.31:168][214]AssetCheck: /Game/BP_Card_Spawner Validating asset
+[2025.04.27-06.36.12:489][418]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.12:492][418]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.12:493][418]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.12:495][418]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.12:498][418]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.12:499][418]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.17:004][595]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.17:007][595]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.17:009][595]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.17:011][595]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.17:013][595]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.17:014][595]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.21:682][772]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.21:685][772]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.21:687][772]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.21:690][772]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.21:692][772]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.21:693][772]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.24:903][895]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.24:906][895]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.24:908][895]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.24:910][895]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.24:912][895]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.24:913][895]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.27:939][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.27:941][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.27:942][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.28:014][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.04.27-06.36.28:021][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.28:024][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.28:025][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.28:026][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.28:528][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.28:531][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.28:532][  8]LogFMOD: Warning: C:\buildagent2\work\c1c3f17eb167c494\studio_api\src\fmod_objectlookup.h(125) - Lookup failed for EventModel: {186788d4-bbef-4cfe-86b2-03a6c0b4edf5}
+
+[2025.04.27-06.36.30:153][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-06.36.30:216][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Card_Spawner] ([2] browsable assets)...
+[2025.04.27-06.36.30:298][ 28]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Card_Spawner.BP_Card_Spawner]
+[2025.04.27-06.36.30:298][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Card_Spawner]
+[2025.04.27-06.36.30:298][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Card_Spawner" FILE="C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/BP_Card_Spawner.uasset" SILENT=true
+[2025.04.27-06.36.30:318][ 28]LogSavePackage: Moving output files for package: /Game/BP_Card_Spawner
+[2025.04.27-06.36.30:319][ 28]LogSavePackage: Moving 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Saved/BP_Card_Spawner4E79193B4852FFEBC4FCF3A68734F3FB.tmp' to 'C:/Users/thefl/Documents/Unreal Projects/FortuneTellers/Fortune-Tellers-Game/FortuneTellersGame 5.5/Content/BP_Card_Spawner.uasset'
+[2025.04.27-06.36.30:334][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.680 ms (total: 7.54 sec)
+[2025.04.27-06.36.30:400][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-06.36.30:400][ 28]LogContentValidation: Enabled validators:
+[2025.04.27-06.36.30:400][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-06.36.30:400][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-06.36.30:400][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-06.36.30:400][ 28]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-06.36.30:401][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-06.36.30:401][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-06.36.30:401][ 28]AssetCheck: /Game/BP_Card_Spawner Validating asset
+[2025.04.27-06.36.44:063][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
